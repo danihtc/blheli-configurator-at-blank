@@ -1,0 +1,29 @@
+Running - OS: <strong>Windows</strong>, Chrome: <strong>64.0.3282.186</strong>, Configurator: <strong>1.1.0</strong>
+Running - OS: <strong>Windows</strong>, Chrome: <strong>64.0.3282.186</strong>, Configurator: <strong>1.1.0</strong>
+PortHandler - Found: COM4
+Connecting to: COM4
+SERIAL: Connection opened with ID: 1, Baud: 115200
+Serial port <span style="color: green">successfully</span> opened with ID: 1
+MultiWii API version <span style="color: green">received</span> - <strong>1.36.0</strong>
+Flight controller info, identifier: <strong>BTFL</strong>, version: <strong>3.2.2</strong>
+Running firmware released on: <strong>Nov 11 2017 00:35:15</strong>
+Board: <strong>MKF4</strong>, version: <strong>0</strong>
+Unique device ID <span style="color: green">received</span> - <strong>0x4b002b3436511938363236</strong>
+Reading setup
+sending cmd_DeviceInitFlash 0 0
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+ESC 1 read settings failed cmd_DeviceInitFlash ACK_D_GENERAL_ERROR
+sending cmd_DeviceInitFlash 0 1
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+ESC 2 read settings failed cmd_DeviceInitFlash ACK_D_GENERAL_ERROR
+sending cmd_DeviceInitFlash 0 2
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+ESC 3 read settings failed cmd_DeviceInitFlash ACK_D_GENERAL_ERROR
+sending cmd_DeviceInitFlash 0 3
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+received cmd_DeviceInitFlash ACK_D_GENERAL_ERROR 0 0,0,0,0
+ESC 4 read settings failed cmd_DeviceInitFlash ACK_D_GENERAL_ERROR
+Reading setup <span style="color: green">finished</span>
